@@ -2,6 +2,7 @@ doom3do
 =======
 
 The complete archive for DOOM for the 3DO
+=========================================
 
 Yes, this is the infamous port of DOOM for the 3DO. Firstly, this
 was the product of ten intense weeks of work due to the fact that
@@ -23,6 +24,7 @@ mid October golden master date), I literally lived in my office, only taking
 breaks to take a nap and got this port completed.
 
 Shortcuts made...
+=================
 
 I had no time to port the music driver, so I had a band that Art Data hired
 to redo the music so all I needed to do is call a streaming audio function
@@ -60,6 +62,8 @@ instead of being the worst port of DOOM, it would have been the best one.
 
 
 Rebecca Ann Heineman
+
 Olde Skuul
+
 Seattle, WA
 
