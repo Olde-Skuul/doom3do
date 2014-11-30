@@ -1,0 +1,24 @@
+writestreamheader
+
+streamblocksize 20480
+streambuffers 4
+
+streamerdeltapri 6
+dataacqdeltapri 8
+
+subscriber FILM 7
+subscriber SNDS 10
+subscriber CTRL 11
+
+# 8 bit mono no compression
+
+preloadinstrument SA_22K_8B_S
+audioclockchan 0
+# use 0x2 for mono... 3 for stereo
+enableaudiomask 0x3
+
+streamstarttime 0
+# priority/starttime
+file AdiLogo.audio 1 0
+file AdiLogo.FILM 10 0
+# markertime 7200

@@ -1,0 +1,58 @@
+tell application "DeBabelizer® 1.6"
+do script "Merge Palettes…
+    159 82
+    \"Windows Default 256\"
+    1
+    255
+    253
+    3
+    "
+do script "Reduce Colors…
+    100 112
+    33
+    8
+    0
+    0
+    0
+    1
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    0
+    \"Apple ][ (8 colors)\"
+    0
+    \"\"
+    "
+do script "Change Pixel Depth••8 bits = 256 colors"
+do script "Sort Palette••HBS"
+do script "Display Picture"
+end tell
