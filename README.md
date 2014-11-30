@@ -31,7 +31,7 @@ to redo the music so all I needed to do is call a streaming audio function
 to play the music. This turned out to be an excellent call because while
 the graphics were lackluster, the music got rave reviews.
 
-3DO's operating system was designed around running and app and purging, there
+3DO's operating system was designed around running an app and purging, there
 was numerous bugs caused by memory leaks. So when I wanted to load the Logicware
 and id software logos on startup, the 3DO leaked the memory so to
 solve that, I created two apps, one to draw the 3do logo and the other to
@@ -60,6 +60,13 @@ I'd be happy to answer questions about the hell I went through to make this
 game. I only wished I had more time to actually polish this back in 1995 so
 instead of being the worst port of DOOM, it would have been the best one.
 
+And one more thing...
+=====================
+
+The intellectual property of DOOM is the exclusive property of ZeniMax. 
+No transfer of the intellectual property of DOOM is given nor implied. If
+anyone wishes to release a version of DOOM 3DO commercially, contact
+ZeniMax for a license.
 
 Rebecca Ann Heineman
 
