@@ -64,9 +64,12 @@ And one more thing...
 =====================
 
 The intellectual property of DOOM is the exclusive property of ZeniMax. 
-No transfer of the intellectual property of DOOM is given nor implied. If
-anyone wishes to release a version of DOOM 3DO commercially, contact
+No transfer of the intellectual property of DOOM or any transfer of the
+ownership of the sounds, art or other game assets are given nor implied.
+If anyone wishes to release a version of DOOM 3DO commercially, contact
 ZeniMax for a license.
+
+The source code... Go for it.
 
 Rebecca Ann Heineman
 
