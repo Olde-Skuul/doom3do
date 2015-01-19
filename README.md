@@ -17,7 +17,7 @@ another was just to compile the code and adding weapons
 was as simple as dropping in the art.
 
 Uh... No...
-v
+
 My friends at 3DO were begging for DOOM to be on their platform and with 
 christmas 1995 coming soon (I took this job in August of 1995, with a
 mid October golden master date), I literally lived in my office, only taking
